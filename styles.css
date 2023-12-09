@@ -1,0 +1,10 @@
+.link-class {
+    color: red;
+}
+
+.link-class:link,
+.link-class:visited,
+.link-class:hover,
+.link-class:active {
+    color: red;
+}
